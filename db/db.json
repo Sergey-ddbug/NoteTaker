@@ -1,5 +1,5 @@
 [
-  2,
+  6,
   {
     "title": "New",
     "text": "My new note",
@@ -26,8 +26,8 @@
     "id": null
   },
   {
-    "title": "3",
-    "text": "345",
-    "id": 1
+    "title": "New Note",
+    "text": "Very New Note\n",
+    "id": 5
   }
 ]
